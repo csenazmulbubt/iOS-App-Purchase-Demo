@@ -1,1 +1,1 @@
-# iOS-App-Purchase-Demo This is a Demo Project For App Purchasing in iOS.Only Testing xcode
+# iOS-App-Purchase-Demo This is a Demo Project For App Purchasing in iOS
